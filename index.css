@@ -1,3 +1,6 @@
+* {
+  font-family: sans-serif;
+}
 body {
   margin: 0;
 }
@@ -19,4 +22,12 @@ nav {
   width: 100vh;
   margin: 0;
   padding: 0;
+}
+
+#web {
+  margin: 50px;
+}
+
+#images {
+  margin: 50px;
 }
